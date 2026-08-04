@@ -1,132 +1,84 @@
 <div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanjil%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=20"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=6AD3F7&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;JavaScript+%7C+React.js+%7C+PHP+%7C+Laravel;MySQL+%7C+Git+%7C+REST+API;Building+Modern%2C+Secure+%26+Scalable+Web+Applications;Clean+Code+%7C+Problem+Solver+%7C+Continuous+Learner;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%94%A5"
-    alt="Typing SVG"
-  />
-</a>
-
-<br/>
-
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Maha-bub&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Maha-bub?label=Followers&style=social)](https://github.com/Maha-bub)
-![Status](https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat&logo=statuspage)
-
+  <h1 align="center">⚡ Hey there, I'm <span style="color: #38bdf8;">Tanjil Hossain</span></h1>
+  <p align="center"><em>Full-Stack Web Developer & Tech Enthusiast based in Mirpur, Dhaka</em></p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Building%20&%20Learning-blueviolet?style=for-the-badge&logo=appveyor" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-Mirpur,%20Dhaka-emerald?style=for-the-badge&logo=googlemaps" alt="Location" />
+  </p>
 </div>
 
 ---
 
-## ⚡ About Me
-
-```javascript
-const Tanjil = {
-  name        : "Tanjil Hossain",
-  role        : "Full-Stack Web Application Developer",
-  location    : "Bangladesh 🇧🇩 · Remote-friendly",
-  focus       : ["Clean Architecture", "Performance", "Scalable Systems"],
-  learning    : ["Laravel", "System Design"],
-  open_to     : ["Full-Time", "Remote", "Freelance"],
-  fun_fact    : "I debug with console.log and I'm not ashamed 😄"
-};
-```
+### 💻 About Me
+- 🌱 Building my path from absolute basics to advanced full-stack development.
+- 🚀 Passionate about creating responsive, dynamic, and modern web applications.
+- 🎯 Currently focusing on mastering modern PHP/Laravel ecosystems, React, and modern developer workflows.
+- ⚡ Fun fact: I love watching movies when I'm not writing code!
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Toolkit
 
-### 🔤 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Maha-bub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  />
-
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=Maha-bub&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&theme=tokyonight&hide_border=true"
-  />
-
+#### 🎨 Frontend & Styling
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;" />
 </div>
----
 
-## 📈 Contribution Activity
+#### ⚙️ Backend, Databases & Frameworks
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Inertia.js badge -->
+  <img src="https://img.shields.io/badge/Inertia.js-953D69?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" height="40" />
+  <!-- Laravel Socialite badge -->
+  <img src="https://img.shields.io/badge/Socialite-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Socialite" height="40" />
+</div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maha-bub&theme=tokyo-night&hide_border=true&area=true"/>
+#### 🧰 Version Control, Editors & AI Tools
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Cursor Editor badge -->
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="40" />
+  <!-- Claude AI badge -->
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="40" />
+  <!-- Codex/AI badge -->
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" height="40" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maha-bub/Maha-bub/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjil-hossain-aa61a137b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjil-hosain)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanjil.hossain.370902)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanjil___7/)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tanjilh85)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tanjil-hosain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjil-hosain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-</div>
+### 🌐 Connect With Me
 
 <div align="center">
-  <i>✨ "Building great things, one commit at a time" ✨</i>
+  <a href="https://www.linkedin.com/in/tanjil-hossain-aa61a137b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tanjilh85@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanjil-hosain&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
